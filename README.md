@@ -34,4 +34,5 @@ Key features (mapping to rubric)
 Task persistence and database
 - Tasks persist to tasks.db (AppContext.BaseDirectory). The app falls back to in-memory storage if DB access fails.
 - To reset tasks, close the app and delete tasks.db in the application directory.
+https://youtu.be/V_t-_wznNH4
 
